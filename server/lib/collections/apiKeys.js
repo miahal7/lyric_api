@@ -1,0 +1,1 @@
+APIKeys = new Mongo.Collection('apiKeys');
